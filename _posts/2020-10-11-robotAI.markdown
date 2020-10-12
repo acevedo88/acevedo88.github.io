@@ -4,7 +4,7 @@ date:   2020-10-11 15:04:23
 categories: [jekyll]
 tags: [jekyll]
 ---
-You are here way to early!  Come back when I finish up this topic.
+You are here way too early!  Come back when I finish up this topic.
 
 ``` ruby
 def print_hi(name)
