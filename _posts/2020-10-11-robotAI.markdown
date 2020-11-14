@@ -19,16 +19,4 @@ Technological singularity is a hypothetical instance in time where our technolog
 Artificial Intelligence is very important to our industries, healthcare and general life as it speeds up the process of tedious tasks.  It greatly reduces the stress caused by long wait times, intensive laborism tasks and allows us to communicate with each other across the globe.  As it continues to advance, it will assist us in ways imagined only in science fiction movies.  The aid in terraforming a new planet like Mars, shuttling humans anywhere they wish to go, rebuilding a human body that suffers from any abnormalities such as paralysis or a loss of limb.  The endless opportunities are near in our future.  As humans, we need to accept this technology and ensure that those who are creating it, are doing the right things and not letting it take full control of our lives or used to cause harm.  Technology in the right hands will be beneficial to our future.  
 
 
-``` ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
